@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-heyuanjie",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "license": "MIT",
   "homepage": "",
   "main": "./dist/index.cjs",
@@ -19,6 +19,7 @@
     "@typescript-eslint/utils": "^5.38.1"
   },
   "devDependencies": {
+    "rimraf": "^3.0.2",
     "unbuild": "^0.8.11",
     "vitest": "^0.23.4"
   }
