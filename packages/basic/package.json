@@ -1,6 +1,6 @@
 {
   "name": "@heyuanjie/eslint-config-basic",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "",
   "author": "hyj",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsonc": "^2.4.0",
-    "eslint-plugin-kirklin": "workspace:*",
+    "eslint-plugin-heyuanjie": "workspace:*",
     "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-n": "^15.2.5",
     "eslint-plugin-promise": "^6.0.1",
