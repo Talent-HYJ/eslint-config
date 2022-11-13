@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-heyuanjie",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "license": "MIT",
   "homepage": "",
   "main": "./dist/index.cjs",

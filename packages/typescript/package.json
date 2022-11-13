@@ -1,6 +1,6 @@
 {
   "name": "@heyuanjie/eslint-config-ts",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "",
   "author": "hyj",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@kirklin/eslint-config-basic": "workspace:*",
+    "@heyuanjie/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1"
   },
