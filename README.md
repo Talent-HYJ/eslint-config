@@ -1,14 +1,14 @@
-# @heyunajie/eslint-config
-[![CI][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
+# @heyuanjie/eslint-config
+ [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
 
-[ci-image]: https://github.com/heyunajie/eslint-config/actions/workflows/release.yml/badge.svg?branch=master
-[ci-url]: https://github.com/heyunajie/eslint-config/actions/workflows/release.yml
-[npm-image]: https://img.shields.io/npm/v/@heyunajie/eslint-config.svg
-[npm-url]: https://npmjs.org/package/@heyunajie/eslint-config
-[downloads-image]: https://img.shields.io/npm/dm/@heyunajie/eslint-config.svg
-[downloads-url]: https://npmjs.org/package/@heyunajie/eslint-config
-[code-style-image]: https://img.shields.io/badge/code__style-%40heyunajie%2Feslint--config-brightgreen
-[code-style-url]: https://github.com/heyunajie/eslint-config/
+[ci-image]: https://github.com/heyuanjie/eslint-config/actions/workflows/release.yml/badge.svg?branch=master
+[ci-url]: https://github.com/Talent-HYJ/eslint-config/actions/workflows/release.yml
+[npm-image]: https://img.shields.io/npm/v/@heyuanjie/eslint-config.svg
+[npm-url]: https://npmjs.org/package/@heyuanjie/eslint-config
+[downloads-image]: https://img.shields.io/npm/dm/@heyuanjie/eslint-config.svg
+[downloads-url]: https://npmjs.org/package/@heyuanjie/eslint-config
+[code-style-image]: https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen
+[code-style-url]: https://github.com/Talent-HYJ/eslint-config/
 
 <div align='left'>
 <b>English</b> | <a href="README.zh-cn.md">简体中文</a>
@@ -36,13 +36,13 @@ official ESLint website.
 ### Install
 
 ```bash
-pnpm add -D eslint @heyunajie/eslint-config
+pnpm add -D eslint @heyuanjie/eslint-config
 ```
 ### add this to your `.eslintrc` file:
 
 ```json
 {
-  "extends": "@heyunajie"
+  "extends": "@heyuanjie"
 }
 ```
 
@@ -79,7 +79,7 @@ add you like rules to your `.eslintrc` file:
 ```json
 {
   "extends": [
-    "@heyunajie"
+    "@heyuanjie"
   ],
   "rules": {
     "vue/component-tags-order": ["error", {
@@ -95,18 +95,16 @@ Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using the standard style.
 
 
-[![heyunajie-code-style-image](https://img.shields.io/badge/code__style-%40heyunajie%2Feslint--config-brightgreen)](https://github.com/heyunajie/eslint-config/)
+[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/Talent-HYJ/eslint-config/)
 
-```markdown
-[![heyunajie-code-style-image](https://img.shields.io/badge/code__style-%40heyunajie%2Feslint--config-brightgreen)](https://github.com/heyunajie/eslint-config/)
-```
 
-[code-style-image]: https://img.shields.io/badge/code__style-%40heyunajie%2Feslint--config-brightgreen
-[code-style-url]: https://github.com/heyunajie/eslint-config/
+
+[code-style-image]: https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen
+[code-style-url]: https://github.com/Talent-HYJ/eslint-config/
 
 ## Thanks
 This project is based on [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Kirk Lin](https://github.com/heyunajie)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Kirk Lin](https://github.com/heyuanjie)
