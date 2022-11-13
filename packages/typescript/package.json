@@ -1,0 +1,27 @@
+{
+  "name": "@heyuanjie/eslint-config-ts",
+  "version": "0.1.10",
+  "description": "",
+  "author": "hyj",
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@kirklin/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.36.1",
+    "@typescript-eslint/parser": "^5.36.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
