@@ -34,7 +34,7 @@ module.exports = {
   plugins: [
     "html",
     "unicorn",
-    "kirklin",
+    "heyuanjie",
   ],
   settings: {
     "import/resolver": {
@@ -330,9 +330,9 @@ module.exports = {
     "yml/quotes": ["error", { prefer: "double", avoidEscape: false }],
     "yml/no-empty-document": "off",
 
-    // kirklin
-    "kirklin/if-newline": "error",
-    "kirklin/import-dedupe": "error",
-    // "kirklin/prefer-inline-type-import": "error",
+    // heyuanjie
+    "heyuanjie/if-newline": "error",
+    "heyuanjie/import-dedupe": "error",
+    // "heyuanjie/prefer-inline-type-import": "error",
   },
 };

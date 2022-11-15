@@ -107,4 +107,4 @@ This project is based on [@antfu/eslint-config](https://github.com/antfu/eslint-
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Kirk Lin](https://github.com/heyuanjie)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Talent-HYJ](https://github.com/heyuanjie)
