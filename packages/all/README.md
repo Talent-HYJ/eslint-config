@@ -1,8 +1,8 @@
 # @heyuanjie/eslint-config
-[![CI][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
+ [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
 
-[ci-image]: https://github.com/heyuanjie/eslint-config/actions/workflows/release.yml/badge.svg?branch=master
-[ci-url]: https://github.com/heyuanjie/eslint-config/actions/workflows/release.yml
+[ci-image]: https://github.com/Talent-HYJ/eslint-config/actions/workflows/release.yml/badge.svg?branch=master
+[ci-url]: https://github.com/Talent-HYJ/eslint-config/actions/workflows/release.yml
 [npm-image]: https://img.shields.io/npm/v/@heyuanjie/eslint-config.svg
 [npm-url]: https://npmjs.org/package/@heyuanjie/eslint-config
 [downloads-image]: https://img.shields.io/npm/dm/@heyuanjie/eslint-config.svg
@@ -95,18 +95,15 @@ Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using the standard style.
 
 
-[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/heyuanjie/eslint-config/)
+[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/Talent-HYJ/eslint-config/)
 
-```markdown
-[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/heyuanjie/eslint-config/)
-```
 
-[code-style-image]: https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen
-[code-style-url]: https://github.com/heyuanjie/eslint-config/
+[code-style-image]: https://img.shields.io/badge/code__style-%Talent-HYJ%2Feslint--config-brightgreen
+[code-style-url]: https://github.com/Talent-HYJ/eslint-config/
 
 ## Thanks
 This project is based on [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Talent-HYJ](https://github.com/heyuanjie)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Talent-HYJ](https://github.com/Talent-HYJ/eslint-config/)

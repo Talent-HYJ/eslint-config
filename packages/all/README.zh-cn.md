@@ -1,5 +1,5 @@
 # @heyuanjie/eslint-config 
-[![CI][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
+ [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript_code style][code-style-image]][code-style-url]
 
 [ci-image]: https://github.com/heyuanjie/eslint-config/actions/workflows/release.yml/badge.svg?branch=master
 [ci-url]: https://github.com/heyuanjie/eslint-config/actions/workflows/release.yml
@@ -96,14 +96,11 @@ pnpm add -D eslint @heyuanjie/eslint-config
 ## 徽章
 在你的README中包括一个这样的徽章，以便让人们知道你的代码使用的是哪种ESLint样式。
 
-[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/heyuanjie/eslint-config/)
+[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/Talent-HYJ/eslint-config/)
 
-```markdown
-[![heyuanjie-code-style-image](https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen)](https://github.com/heyuanjie/eslint-config/)
-```
 
 [code-style-image]: https://img.shields.io/badge/code__style-%40heyuanjie%2Feslint--config-brightgreen
-[code-style-url]: https://github.com/heyuanjie/eslint-config/
+[code-style-url]: https://github.com/Talent-HYJ/eslint-config/
 
 ## 致谢
 本项目基于 [@antfu/eslint-config](https://github.com/antfu/eslint-config)
@@ -111,4 +108,4 @@ pnpm add -D eslint @heyuanjie/eslint-config
 
 ## 开源协议
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Talent-HYJ](https://github.com/heyuanjie)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Talent-HYJ](https://github.com/Talent-HYJ)
