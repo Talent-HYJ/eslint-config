@@ -1,6 +1,6 @@
 {
   "name": "@heyuanjie/eslint-config",
-  "version": "1.0.0",
+  "version": "0.0.4",
   "description": "heyuanjie's ESLint config",
   "author": "hyj",
   "license": "MIT",
